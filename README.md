@@ -12,8 +12,7 @@
 
 <h3> Resources </h3>
 <a href ="https://www.python.org/downloads/"> Python Download </a>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_GikMdhAhv0" frameborder="0" allowfullscreen>
-</iframe>
+<a href ="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame" > PyGame Wheel File</a>
 
 
 
