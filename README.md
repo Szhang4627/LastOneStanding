@@ -11,6 +11,7 @@
 <img src="https://github.com/Szhang4627/LastOneStanding/blob/master/LastOneStanding/LAST%20ONE%20STANDING%20ENDING%20SCREEN.png"width = "200px">
 
 <h3> Resources </h3>
+
 <a href ="https://www.python.org/downloads/"> Python Download </a>
 
 <a href ="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame" > PyGame Wheel File</a>
