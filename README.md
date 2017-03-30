@@ -15,11 +15,4 @@
 
 <a href ="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame" > PyGame Wheel File</a>
 
-
-
-
-
-
-
-
 [Bonus gift:https://www.youtube.com/watch?v=dQw4w9WgXcQ]
